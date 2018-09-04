@@ -1,0 +1,45 @@
+{
+  "name": "guidebot",
+  "version": "2.2.4",
+  "description": "A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Idiots-Guide/guidebot.git"
+  },
+  "author": "Evelyne Lachance <eslachance@gmail.com> (http://evie.codes)",
+  "contributors": [
+    "York (http://anidiots.guide)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-Idiots-Guide/guidebot/issues"
+  },
+  "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "discord.js": "^11.4.2",
+    "ejs": "^2.6.1",
+    "enmap": "^4.0.12",
+    "enmap-level": "^2.1.0",
+    "express": "^4.16.3",
+    "express-passport": "^0.1.0",
+    "express-session": "^1.15.6",
+    "helmet": "^3.13.0",
+    "inquirer": "^6.2.0",
+    "level-session-store": "^2.1.0",
+    "marked": "^0.5.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "passport": "^0.4.0",
+    "passport-discord": "^0.1.3",
+    "snekfetch": "^4.0.4",
+    "better-sqlite-pool": "^0.1.2"
+  }
+}
