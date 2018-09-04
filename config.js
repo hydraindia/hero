@@ -9,7 +9,6 @@ const config = {
   "support": ["292936070603997185"],
 
   // Your Bot's Token. Available on https://discordapp.com/developers/applications/me
-  "token": "NDgyMTgwMTc3NjQwNjg1NTc4.Dmzsdw.lejSvnirkgjGdrGbpLJsm9BwRFE",
 
   "dashboard" : {
     "oauthSecret": "wWSwGW15hbyQiYFCTg8esL3MFfzvZsj1",
